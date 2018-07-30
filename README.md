@@ -1,4 +1,4 @@
-# battle
+# Battle
 
 This is a rpg battle script made in Python.
 
